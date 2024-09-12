@@ -1,15 +1,15 @@
 public class Logika {
-    public  static void main(string[] args) {
+    public  static void main(String[] args) {
         boolean a = true;
         boolean b = false;
 
         // AND
         boolean hasil = a && b;
-        system.out.println(hasil);
+        System.out.println(hasil);
 
-        // ON
+        // OR
         hasil = a || b;
-        system.out.println(hasil);
+        System.out.println(hasil);
 
     }
 }

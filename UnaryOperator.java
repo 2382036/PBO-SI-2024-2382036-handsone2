@@ -4,7 +4,7 @@ public class UnaryOperator {
         // Pre-Increment
         System.out.println(++x);
         // Post-Increment
-        System.out,Println(x++);
+        System.out.println(x++);
 
         int y = 10;
         //pre-Decrement
@@ -14,6 +14,7 @@ public class UnaryOperator {
 
         //logical NOT
         boolean isTrue = true;
+        System.out.println(!isTrue);
 
     }
 }

@@ -1,6 +1,4 @@
 public class Aritmatika {
-    public class Aritmatika {
-        Codiumate: options | test this method
         public static void main(String[] args) {
             //+, -, *, /, %
             int x = 100;
@@ -12,4 +10,3 @@ public class Aritmatika {
             System.out.println(x % y); // 0
         }
     }
-}
